@@ -1,0 +1,10 @@
+@define-color bar-bg rgba(28, 15, 34, 0.7);
+
+@define-color main-bg rgba(0,0,0,0);
+@define-color main-fg #D3CDDA;
+
+@define-color wb-act-bg #B270CB;
+@define-color wb-act-fg #C996DF;
+
+@define-color wb-hvr-bg #C996DF;
+@define-color wb-hvr-fg #f6c177;
