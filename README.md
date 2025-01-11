@@ -1,7 +1,8 @@
 # arch-rice-config
 Made for Hackclub's riceathon  
 first time using linux in general
-![plot](./Screenshots/wallpaper.png)
+![plot](./Screenshots/desktop.png)
+![plot](./Screenshots/windows.png)
 ## description
 Arch and Hyprland  
 Font: Mononoki  
